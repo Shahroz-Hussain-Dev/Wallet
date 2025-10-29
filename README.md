@@ -1,7 +1,5 @@
 A gas-optimized, feature-rich smart contract wallet system for managing native currency on EVM-compatible blockchains.
 
-## Overview
-
 The system consists of two contracts:
 - **UserWallet**: Individual smart contract wallets with transaction history tracking
 - **WalletManager**: Factory contract for user registration and wallet deployment
