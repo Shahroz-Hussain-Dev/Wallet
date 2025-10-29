@@ -195,4 +195,5 @@ contract WalletManager {
     function verifyWallet(address _wallet) external view returns (bool) {
         return isWallet[_wallet];
     }
+
 }
